@@ -6,7 +6,7 @@ An open source NFT marketplace built on Reservoir.
 ## About The Project
 
 
-Reservoir Market is an open source marketplace that enables communities to easily launch their own NFT marketplace, accessing instant liquidity aggregated from other major marketplaces.
+Market Maker is an open source marketplace that enables communities to easily launch their own NFT marketplace, accessing instant liquidity aggregated from other major marketplaces.
 
 The marketplace supports 3 different modes:
 
@@ -55,7 +55,7 @@ $ npm install
 ```
 
 ### Configuration
-Reservoir Market is built to be fully configurable using environment variables. To preview your configuration locally you can copy the values you want to use from  `env.development`  or  `env.production`  into a new file called  `.env.local`.
+Market Maker is built to be fully configurable using environment variables. To preview your configuration locally you can copy the values you want to use from  `env.development`  or  `env.production`  into a new file called  `.env.local`.
 
 Note: Environment variables can also be added during deployment via deployment platforms like [vercel](https://vercel.com/).
 
