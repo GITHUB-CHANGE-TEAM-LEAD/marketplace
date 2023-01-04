@@ -1,4 +1,4 @@
-<h3 align="center">Reservoir Market</h3>
+<h3 align="center">Market Maker</h3>
   <p align="center">
 An open source NFT marketplace built on Reservoir.
 
