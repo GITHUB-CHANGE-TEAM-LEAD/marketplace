@@ -6,7 +6,7 @@ An open source NFT marketplace built on Reservoir.
 ## About The Project
 
 
-Market Maker is an open source marketplace that enables communities to easily launch their own NFT marketplace, accessing instant liquidity aggregated from other major marketplaces.
+https://marketmaker.fi is an open source marketplace that enables communities to easily launch their own NFT marketplace, accessing instant liquidity aggregated from other major marketplaces.
 
 The marketplace supports 3 different modes:
 
